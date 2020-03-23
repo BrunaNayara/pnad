@@ -1,0 +1,7 @@
+.idea/
+.nbgrader.log
+__pycache__
+*.txt.gz
+.vscode
+cache/
+data/
